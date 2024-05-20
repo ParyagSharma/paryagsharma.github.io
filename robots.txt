@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://paryagsharma.github.io/al-folio/sitemap.xml
+Sitemap: https://paryagsharma.github.io/sitemap.xml
